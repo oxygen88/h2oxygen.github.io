@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://h2oxygen.xyz/2020/05/05/00_Index/Java%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2020-05-05</lastmod>
+  </url>  <url>
     <loc>http://h2oxygen.xyz/2020/05/05/test/hello-world/</loc>
     <lastmod>2020-05-05</lastmod>
   </url>

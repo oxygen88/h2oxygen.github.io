@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://h2oxygen.xyz/2020/05/05/test/hello-world/</loc>
+    <loc>http://h2oxygen.xyz/2020/05/05/00_Index/Java%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E6%80%BB%E7%BB%93/</loc>
     
-    <lastmod>2020-05-05T10:40:05.916Z</lastmod>
+    <lastmod>2020-05-05T12:43:34.890Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://h2oxygen.xyz/tags/index.html</loc>
     
-    <lastmod>2020-05-04T17:24:18.524Z</lastmod>
+    <lastmod>2020-05-05T12:27:35.333Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://h2oxygen.xyz/categories/index.html</loc>
+    
+    <lastmod>2020-05-05T12:27:08.624Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://h2oxygen.xyz/2020/05/05/test/hello-world/</loc>
+    
+    <lastmod>2020-05-05T10:40:05.916Z</lastmod>
     
   </url>
   
@@ -26,13 +40,6 @@
     <loc>http://h2oxygen.xyz/links/index.html</loc>
     
     <lastmod>2020-05-04T17:24:18.520Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://h2oxygen.xyz/categories/index.html</loc>
-    
-    <lastmod>2020-05-04T17:24:18.517Z</lastmod>
     
   </url>
   
