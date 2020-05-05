@@ -2,9 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://h2oxygen.xyz/tags/index.html</loc>
+    
+    <lastmod>2020-05-04T17:24:18.524Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://h2oxygen.xyz/repository/index.html</loc>
     
     <lastmod>2020-05-04T17:24:18.523Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://h2oxygen.xyz/links/index.html</loc>
+    
+    <lastmod>2020-05-04T17:24:18.520Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://h2oxygen.xyz/categories/index.html</loc>
+    
+    <lastmod>2020-05-04T17:24:18.517Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://h2oxygen.xyz/books/index.html</loc>
+    
+    <lastmod>2020-05-04T17:24:18.514Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://h2oxygen.xyz/about/index.html</loc>
+    
+    <lastmod>2020-05-04T17:24:18.511Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://h2oxygen.xyz/404.html</loc>
+    
+    <lastmod>2020-05-04T17:24:18.507Z</lastmod>
     
   </url>
   
