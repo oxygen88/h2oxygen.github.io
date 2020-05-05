@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://h2oxygen.xyz/"/>
   <updated>2020-05-04T16:08:38.050Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://h2oxygen.xyz/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/05/05/hello-world/"/>
-    <id>http://yoursite.com/2020/05/05/hello-world/</id>
+    <link href="https://h2oxygen.xyz/2020/05/05/hello-world/"/>
+    <id>https://h2oxygen.xyz/2020/05/05/hello-world/</id>
     <published>2020-05-04T16:08:38.049Z</published>
     <updated>2020-05-04T16:08:38.050Z</updated>
     
