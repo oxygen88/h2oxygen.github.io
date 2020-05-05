@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://h2oxygen.xyz/2020/05/05/test/hello-world/</loc>
+    
+    <lastmod>2020-05-05T10:40:05.916Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://h2oxygen.xyz/tags/index.html</loc>
     
     <lastmod>2020-05-04T17:24:18.524Z</lastmod>
@@ -47,13 +54,6 @@
     <loc>http://h2oxygen.xyz/404.html</loc>
     
     <lastmod>2020-05-04T17:24:18.507Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://h2oxygen.xyz/2020/05/05/test/hello-world/</loc>
-    
-    <lastmod>2020-05-04T16:08:38.050Z</lastmod>
     
   </url>
   
