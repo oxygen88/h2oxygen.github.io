@@ -266,7 +266,6 @@ a {
 
 #article-content {
 	padding: 10px 0;
-	border-bottom: 2px solid #ddd;
 }
 #article-content ol,
 #article-content ul {
@@ -277,28 +276,24 @@ a {
 }
 #article-content h1 {
 	line-height: 50px;
-	margin: 20px 0 15px;
+	margin: 20px 0 16px;
 	font-size: 32px;
-	padding-bottom: 10px;
-	border-bottom: 2px solid #ddd;
 }
 #article-content h2 {
 	line-height: 45px;
-	margin: 15px 0 10px;
+	margin: 15px 0 16px;
 	font-size: 25px;
-	padding-left: 10px;
-	border-bottom: 1px solid #ddd;
 }
 #article-content h3 {
 	line-height: 40px;
-	margin: 10px 0 5px;
+	margin: 10px 0 16px;
 	font-size: 22px
 }
 #article-content h4,
 #article-content h5,
 #article-content h6 {
 	line-height: 35px;
-	margin: 5px 0 5px;
+	margin: 5px 0 16px;
 }
 #article-content a:hover {
 	border-bottom: 1px solid;
@@ -319,7 +314,7 @@ a {
 	border-left: .25em solid #dfe2e5;
 }
 #article-content p {
-	line-height: 20px;
+	line-height: 26px;
 	margin-bottom: 10px;
 }
 #article-content ul code,

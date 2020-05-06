@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://h2oxygen.xyz/"/>
-  <updated>2020-05-05T14:14:34.290Z</updated>
+  <updated>2020-05-06T16:16:23.389Z</updated>
   <id>http://h2oxygen.xyz/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java简介</title>
+    <link href="http://h2oxygen.xyz/2020/05/06/B.%E8%AF%AD%E8%A8%80/Java/Java%E7%AE%80%E4%BB%8B/"/>
+    <id>http://h2oxygen.xyz/2020/05/06/B.%E8%AF%AD%E8%A8%80/Java/Java%E7%AE%80%E4%BB%8B/</id>
+    <published>2020-05-06T15:21:51.401Z</published>
+    <updated>2020-05-06T16:16:23.389Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="什么是Java"><a href="#什么是Java" class="headerlink" title="什么是Java"></a>什么是Java</h2><p>Java是一门面向对象编程语言，不仅吸收了C++语言的各种优点，还摒弃了C++里难以理解的多继承、指针等概念，因此Java语言具有功能强大和简单易用两个特征。Java语言作为静态面向对象编程语言的代表，极好地实现了面向对象理论，允许程序员以优雅的思维方式进行复杂的编程 。</p><h2 id="诞生背景"><a href="#诞生背景" class="headerlink" title="诞生背景"></a>诞生背景</h2><p><img src="/2020/05/06/B.%E8%AF%AD%E8%A8%80/Java/Java%E7%AE%80%E4%BB%8B/2019082613571791.jpg" alt></p><p>任职于Sun公司(Stanford University Network斯坦福网络公司)的詹姆斯·高斯林和麦克·舍林丹等人于1990年代初开发Java语言的雏形，最初被命名为Oak，Oak的目标是作为家用电器等小型系统的编程语言，用于电视机、电话、闹钟、烤面包机等家用电器的控制和通信。由于这些智能化家电的市场需求没有预期的高，Sun公司放弃了该项计划。随着1990年代互联网的发展，Sun公司发现Oak在互联网上应用的前景，于是改造了Oak，于1995年5月以Java的名称正式发布。伴随着互联网的迅猛发展，Java逐渐成为重要的网络编程语言。</p><h2 id="三大版本"><a href="#三大版本" class="headerlink" title="三大版本"></a>三大版本</h2><h3 id="Java-SE（J2SE，Java-2-Platform-Standard-Edition，标准版）"><a href="#Java-SE（J2SE，Java-2-Platform-Standard-Edition，标准版）" class="headerlink" title="Java SE（J2SE，Java 2 Platform Standard Edition，标准版）"></a>Java SE（J2SE，Java 2 Platform Standard Edition，标准版）</h3><p>Java SE 以前称为 J2SE。它允许开发和部署在桌面、服务器、嵌入式环境和实时环境中使用的 Java 应用程序。Java SE 包含了支持 Java Web 服务开发的类，并为Java EE和Java ME提供基础。</p><h3 id="Java-EE（J2EE，Java-2-Platform-Enterprise-Edition，企业版）"><a href="#Java-EE（J2EE，Java-2-Platform-Enterprise-Edition，企业版）" class="headerlink" title="Java EE（J2EE，Java 2 Platform Enterprise Edition，企业版）"></a>Java EE（J2EE，Java 2 Platform Enterprise Edition，企业版）</h3><p>Java EE 以前称为 J2EE。企业版本帮助开发和部署可移植、健壮、可伸缩且安全的服务器端Java 应用程序。Java EE 是在 Java SE 的基础上构建的，它提供 Web 服务、组件模型、管理和通信 API，可以用来实现企业级的面向服务体系结构（service-oriented architecture，SOA）和 Web2.0应用程序。2018年2月，<strong>Eclipse 宣布正式将 JavaEE 更名为 JakartaEE</strong></p><h3 id="Java-ME（J2ME，Java-2-Platform-Micro-Edition，微型版）"><a href="#Java-ME（J2ME，Java-2-Platform-Micro-Edition，微型版）" class="headerlink" title="Java ME（J2ME，Java 2 Platform Micro Edition，微型版）"></a>Java ME（J2ME，Java 2 Platform Micro Edition，微型版）</h3><p>Java ME 以前称为 J2ME。Java ME 为在移动设备和嵌入式设备（比如手机、PDA、电视机顶盒和打印机）上运行的应用程序提供一个健壮且灵活的环境。Java ME 包括灵活的用户界面、健壮的安全模型、许多内置的网络协议以及对可以动态下载的连网和离线应用程序的丰富支持。基于 Java ME 规范的应用程序只需编写一次，就可以用于许多设备，而且可以利用每个设备的本机功能。</p><h2 id="语言特点与应用场景"><a href="#语言特点与应用场景" class="headerlink" title="语言特点与应用场景"></a>语言特点与应用场景</h2><p>Java语言具有简单性、面向对象、分布式、健壮性、安全性、跨平台性、可移植性、多线程与动态性等特点。Java语言可以编写桌面应用程序、Web应用程序、分布式系统和嵌入式系统等 。Java 快速、安全、可靠。从笔记本电脑到数据中心，从游戏控制台到超级计算机，从手机到互联网，Java 无处不在！</p><h2 id="Java技术体系"><a href="#Java技术体系" class="headerlink" title="Java技术体系"></a>Java技术体系</h2><p>下图为Oracle官网提供的Java技术体系图</p><p><img src="/2020/05/06/B.%E8%AF%AD%E8%A8%80/Java/Java%E7%AE%80%E4%BB%8B/20190826135741553.png" alt></p><h2 id="JVM、JRE和JDK的关系"><a href="#JVM、JRE和JDK的关系" class="headerlink" title="JVM、JRE和JDK的关系"></a>JVM、JRE和JDK的关系</h2><h3 id="JVM"><a href="#JVM" class="headerlink" title="JVM"></a>JVM</h3><p>Java Virtual Machine是Java虚拟机，Java程序需要运行在虚拟机上，不同的平台有自己的虚拟机，因此Java语言可以实现跨平台。</p><h3 id="JRE"><a href="#JRE" class="headerlink" title="JRE"></a>JRE</h3><p>Java Runtime Environment包括Java虚拟机和Java程序所需的核心类库等。核心类库主要是java.lang包：包含了运行Java程序必不可少的系统类，如基本数据类型、基本数学函数、字符串处理、线程、异常处理类等，系统缺省加载这个包</p><p>如果想要运行一个开发好的Java程序，计算机中只需要安装JRE即可。</p><h3 id="JDK"><a href="#JDK" class="headerlink" title="JDK"></a>JDK</h3><p>Java Development Kit是提供给Java开发人员使用的，其中包含了Java的开发工具，也包括了JRE。所以安装了JDK，就无需再单独安装JRE了。其中的开发工具：编译工具(javac.exe)，打包工具(jar.exe)等</p><h3 id="JVM-amp-JRE-amp-JDK关系图"><a href="#JVM-amp-JRE-amp-JDK关系图" class="headerlink" title="JVM&amp;JRE&amp;JDK关系图"></a>JVM&amp;JRE&amp;JDK关系图</h3><p><img src="/2020/05/06/B.%E8%AF%AD%E8%A8%80/Java/Java%E7%AE%80%E4%BB%8B/01.jpg" alt></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;什么是Java&quot;&gt;&lt;a href=&quot;#什么是Java&quot; class=&quot;headerlink&quot; title=&quot;什么是Java&quot;&gt;&lt;/a&gt;什么是Java&lt;/h2&gt;&lt;p&gt;Java是一门面向对象编程语言，不仅吸收了C++语言的各种优点，还摒弃了C++里难以理解的多继承、指
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="http://h2oxygen.xyz/categories/Java/"/>
+    
+    
+      <category term="Java" scheme="http://h2oxygen.xyz/tags/Java/"/>
+    
+  </entry>
   
   <entry>
     <title>Java知识体系总结</title>
@@ -40,28 +66,6 @@
     
     
       <category term="总结" scheme="http://h2oxygen.xyz/tags/%E6%80%BB%E7%BB%93/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://h2oxygen.xyz/2020/05/05/test/hello-world/"/>
-    <id>http://h2oxygen.xyz/2020/05/05/test/hello-world/</id>
-    <published>2020-05-05T06:32:50.226Z</published>
-    <updated>2020-05-05T10:40:05.916Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
-    
     
   </entry>
   

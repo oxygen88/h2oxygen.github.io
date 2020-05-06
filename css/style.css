@@ -369,7 +369,7 @@ h6,
 .h5,
 .h6 {
   font-family: inherit;
-  font-weight: 500;
+  font-weight: 700;
   line-height: 1.1;
   color: inherit;
 }
@@ -3254,12 +3254,12 @@ body {
   font-family: "PingHei","PingFang SC",Helvetica Neue,"Work Sans","Hiragino Sans GB","Microsoft YaHei",SimSun,sans-serif;
   font-size: 16px;
   line-height: 1.57143;
-  color: #333333;
+  color: #4d4d4d;
   background-color: #fff;
 }
 
 a {
-  color: #333333;
+  color: #4d4d4d;
   text-decoration: none;
 }
 
